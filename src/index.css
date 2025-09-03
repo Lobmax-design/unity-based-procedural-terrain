@@ -1,0 +1,15 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/* You can remove the old #root styles if they exist */
+#root {
+  /* any specific root styles can go here, but width/height are handled above */
+}
